@@ -12,4 +12,4 @@ If you're looking at my work, this is the best place to begin.
 
 ## More Context
   - Website: [crankthecode.com](https://www.crankthecode.com)
-  - Books: Decision Architecture series (See Amazon UK)
+  - Books: (Decision Architecture series)[https://www.amazon.co.uk/Decision-Architecture-Foundations-Patterns-Relativistic/dp/B0GTMVV8T5/]
