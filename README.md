@@ -21,6 +21,9 @@ I focus on system design, decision-making structure and the architectural causes
   - [Trainer](https://github.com/trainer)
     Train times/weather/astronomy data app.
 
+  - [Calendifier](https://github.com/calendifier)
+    Calendar, events, note taking, time, internationalisation.
+
 ## Tools
   - [3D Printer Launcher](https://github.com/3D-Printer-Launcher)
     Temps / general info reporting for Klipper printers.
