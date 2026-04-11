@@ -6,8 +6,8 @@ I focus on system design, decision-making structure and the architectural causes
 
 ## Key Projects
   - [NarrateX](https://github.com/oernster/narratex)  
-  Narration platform combining content transformation with audio output.
-
+    Platform for converting written content into structured, listenable audio.  
+    Live: https://www.narratex.co.uk
 ## What to Look For
   - Decision-making structure
   - System boundaries
