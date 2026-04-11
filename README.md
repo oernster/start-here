@@ -7,8 +7,7 @@ I focus on system design, decision-making structure and the architectural causes
 ## Key Projects
 ### Representative systems that reflect how I design and build.
   
-  - [NarrateX](https://github.com/oernster/narratex) Platform for converting written content into structured, listenable audio.  
-    [Live NarrateX website](https://www.narratex.co.uk)
+  - [NarrateX](https://github.com/oernster/narratex) Platform for converting written content into structured, listenable audio.  [Live NarrateX website](https://www.narratex.co.uk)
 
   - [Elite Dangerous Colonisation Assistant](https://github.com/EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
@@ -37,9 +36,7 @@ I focus on system design, decision-making structure and the architectural causes
     Aggregates train times, weather and astronomy data into a unified interface.
 
   - [Snark as a service](https://github.com/snark-as-a-service)
-    A sarcasm api that gets an annoying quote.
-
-    [Live SnarkAPI website](https://www.snarkapi.com)
+    A sarcasm api that gets an annoying quote.  [Live SnarkAPI website](https://www.snarkapi.com)
 
   - [FancyClock](https://github.com/FancyClock)
     A fancy clock with timezone support/internationalisation/skins.
