@@ -9,11 +9,17 @@ I focus on system design, decision-making structure and the architectural causes
     Platform for converting written content into structured, listenable audio.  
     Live: https://www.narratex.co.uk
 
-## Other Relevant Projects
+  - [Elite Dangerous Colonisation Assistant](https://github.com/EDColonisationAsst)
+    Elite Dangerous colonisation support site and shard integration for gameglass.
 
-<!-- AUTO-GENERATED-START -->
-<!-- AUTO-GENERATED-END -->
-    
+  - [3D Printing Info](https://github.com/3D-printing-info)
+    Curated 3D printing knowledge base.
+
+  - [Latency Lab](https://github.com/latencylab)
+    LatencyLab is a local, design-time latency exploration tool for event-driven interactive systems.
+
+  - 
+
 ## What to Look For
   - Decision-making structure
   - System boundaries
