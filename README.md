@@ -42,6 +42,8 @@ I focus on system design, decision-making structure and the architectural causes
 
   - [FancyClock](https://github.com/FancyClock)
     A fancy clock with timezone support/internationalisation/skins.
+  - [Elevator Control Panel](https://github.com/elevator)
+    Elevator control panel authored in Python/FastAPI/React. 
 
 ## What to Look For
   - Decision-making structure
