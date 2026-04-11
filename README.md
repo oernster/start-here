@@ -5,7 +5,8 @@ If you're evaluating my work, this is the best place to start.
 I focus on system design, decision-making structure and the architectural causes of delivery success and failure.
 
 ## Key Projects
-  - [NarrateX](https://github.com/oernster/narratex)
+  - [NarrateX](https://github.com/oernster/narratex)  
+  LLM-assisted text processing and narration platform combining content transformation with audio output.
 
 ## What to Look For
   - Decision-making structure
