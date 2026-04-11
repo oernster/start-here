@@ -14,14 +14,8 @@ I focus on system design, decision-making structure and the architectural causes
   - [Elite Dangerous Colonisation Assistant](https://github.com/EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
 
-  - [3D Printing Info](https://github.com/3D-printing-info)
-    Curated 3D printing knowledge base.
-
   - [Latency Lab](https://github.com/latencylab)
     LatencyLab is a local, design-time latency exploration tool for event-driven interactive systems.
-
-  - [Trainer](https://github.com/trainer)
-    Aggregates train times, weather and astronomy data into a unified interface.
 
   - [Calendifier](https://github.com/calendifier)
     Calendar, events, note taking, time, internationalisation.
@@ -37,9 +31,14 @@ I focus on system design, decision-making structure and the architectural causes
     Temps / general info reporting for Klipper printers.
 
 ## Additional Projects
+  - [3D Printing Info](https://github.com/3D-printing-info)
+    Curated 3D printing knowledge base.
+
+  - [Trainer](https://github.com/trainer)
+    Aggregates train times, weather and astronomy data into a unified interface.
+
   - [Snark as a service](https://github.com/snark-as-a-service)
     A sarcasm api that gets an annoying quote.
-    
     [Live SnarkAPI website](https://www.snarkapi.com)
 
   - [FancyClock](https://github.com/FancyClock)
