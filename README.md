@@ -19,7 +19,7 @@ I focus on system design, decision-making structure and the architectural causes
     LatencyLab is a local, design-time latency exploration tool for event-driven interactive systems.
 
   - [Trainer](https://github.com/trainer)
-    Train times/weather/astronomy data app.
+    Aggregates train times, weather and astronomy data into a unified interface.
 
   - [Calendifier](https://github.com/calendifier)
     Calendar, events, note taking, time, internationalisation.
