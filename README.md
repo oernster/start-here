@@ -6,7 +6,7 @@ I focus on system design, decision-making structure and the architectural causes
 
 ## Key Projects
   - [NarrateX](https://github.com/oernster/narratex)  
-  LLM-assisted text processing and narration platform combining content transformation with audio output.
+  Narration platform combining content transformation with audio output.
 
 ## What to Look For
   - Decision-making structure
