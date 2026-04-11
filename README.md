@@ -5,6 +5,8 @@ If you're evaluating my work, this is the best place to start.
 I focus on system design, decision-making structure and the architectural causes of delivery success and failure.
 
 ## Key Projects
+### Representative systems that reflect how I design and build.
+  
   - [NarrateX](https://github.com/oernster/narratex)  
     Platform for converting written content into structured, listenable audio.  
     [Live NarrateX website](https://www.narratex.co.uk)
