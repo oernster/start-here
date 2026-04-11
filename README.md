@@ -38,6 +38,9 @@ I focus on system design, decision-making structure and the architectural causes
     
     [Live SnarkAPI website](https://www.snarkapi.com)
 
+  - [FancyClock](https://github.com/FancyClock)
+    A fancy clock with timezone support/internationalisation/skins.
+
 ## What to Look For
   - Decision-making structure
   - System boundaries
