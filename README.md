@@ -25,12 +25,14 @@ I focus on system design, decision-making structure and the architectural causes
     Calendar, events, note taking, time, internationalisation.
 
 ## Tools
-  - [3D Printer Launcher](https://github.com/3D-Printer-Launcher)
-    Temps / general info reporting for Klipper printers.
+  - [AudioDeck](https://github.com/AudioDeck)
+    Audio switching for StreamDeck / Windows.
   - [AxisDB](https://github.com/AxisDB)
     AxisDB is a tiny embedded document database for Python; available to install via pip.
   - [Coin Analysis](https://github.com/coin-analysis)
     A tool for numismatists to analyse coins from photos using OCR/ML.
+  - [3D Printer Launcher](https://github.com/3D-Printer-Launcher)
+    Temps / general info reporting for Klipper printers.
 
 # Utils/Fun
   - [Snark as a service](https://github.com/snark-as-a-service)
