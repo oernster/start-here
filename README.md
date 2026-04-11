@@ -34,7 +34,7 @@ I focus on system design, decision-making structure and the architectural causes
   - [3D Printer Launcher](https://github.com/3D-Printer-Launcher)
     Temps / general info reporting for Klipper printers.
 
-# Utils/Fun
+## Additional Projects
   - [Snark as a service](https://github.com/snark-as-a-service)
     A sarcasm api that gets an annoying quote.
     
