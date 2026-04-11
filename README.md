@@ -39,6 +39,7 @@ I focus on system design, decision-making structure and the architectural causes
 
   - [Snark as a service](https://github.com/snark-as-a-service)
     A sarcasm api that gets an annoying quote.
+
     [Live SnarkAPI website](https://www.snarkapi.com)
 
   - [FancyClock](https://github.com/FancyClock)
