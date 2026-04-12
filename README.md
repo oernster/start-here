@@ -8,13 +8,10 @@ I focus on system design, decision-making structure and the architectural causes
 ### Representative systems that reflect how I design and build.
   
   - [NarrateX](https://github.com/oernster/narratex) Platform for converting written content into structured, listenable audio.  [Live NarrateX website](https://www.narratex.co.uk)
-
   - [Elite Dangerous Colonisation Assistant](https://github.com/oernster/EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
-
   - [Latency Lab](https://github.com/oernster/latencylab)
     LatencyLab is a local, design-time latency exploration tool for event-driven interactive systems.
-
   - [Calendifier](https://github.com/oernster/calendifier)
     Calendar, events, note taking, time, internationalisation.
 
@@ -33,16 +30,12 @@ I focus on system design, decision-making structure and the architectural causes
 ## Additional Projects
   - [3D Printing Info](https://github.com/oernster/3D-printing-info)
     Curated 3D printing knowledge base.
-
   - [Trainer](https://github.com/oernster/trainer)
     Aggregates train times, weather and astronomy data into a unified interface.
-
   - [Snark as a service](https://github.com/oernster/snark-as-a-service)
     A sarcasm api that gets an annoying quote.  [Live SnarkAPI website](https://www.snarkapi.com)
-
   - [FancyClock](https://github.com/oernster/FancyClock)
     A fancy clock with timezone support/internationalisation/skins.
-  
   - [Elevator Control Panel](https://github.com/oernster/elevator)
     Elevator control panel authored in Python/FastAPI/React. 
 
