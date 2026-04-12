@@ -23,6 +23,8 @@ I focus on system design, decision-making structure and the architectural causes
     Audio switching for StreamDeck / Windows.
   - [AxisDB](https://github.com/oernster/AxisDB)
     AxisDB is a tiny embedded document database for Python; available to install via pip.
+  - [CommandDeck](https://github.com/oernster/CommandDeck)
+    A local-first command surface for structuring work as operational state rather than task-list clutter.
   - [Coin Analysis](https://github.com/oernster/coin-analysis)
     A tool for numismatists to analyse coins from photos using OCR/ML.
   - [3D Printer Launcher](https://github.com/oernster/3D-Printer-Launcher)
