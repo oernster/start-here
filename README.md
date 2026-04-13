@@ -8,10 +8,10 @@ I focus on system design, decision-making structure and the architectural causes
 ### Representative systems that reflect how I design and build.
   
   - [NarrateX](https://github.com/oernster/narratex) Platform for converting written content into structured, listenable audio.  [Live NarrateX website](https://www.narratex.co.uk)
+  - [CommandDeck](https://github.com/oernster/CommandDeck)
+    A local-first command surface for structuring work as operational state rather than task-list clutter.
   - [Elite Dangerous Colonisation Assistant](https://github.com/oernster/EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
-  - [Latency Lab](https://github.com/oernster/latencylab)
-    LatencyLab is a local, design-time latency exploration tool for event-driven interactive systems.
   - [Calendifier](https://github.com/oernster/calendifier)
     Calendar, events, note taking, time, internationalisation.
 
@@ -20,8 +20,8 @@ I focus on system design, decision-making structure and the architectural causes
     Audio switching for StreamDeck / Windows.
   - [AxisDB](https://github.com/oernster/AxisDB)
     AxisDB is a tiny embedded document database for Python; available to install via pip.
-  - [CommandDeck](https://github.com/oernster/CommandDeck)
-    A local-first command surface for structuring work as operational state rather than task-list clutter.
+  - [Latency Lab](https://github.com/oernster/latencylab)
+    LatencyLab is a local, design-time latency exploration tool for event-driven interactive systems.
   - [Coin Analysis](https://github.com/oernster/coin-analysis)
     A tool for numismatists to analyse coins from photos using OCR/ML.
   - [3D Printer Launcher](https://github.com/oernster/3D-Printer-Launcher)
