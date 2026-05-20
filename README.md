@@ -7,6 +7,7 @@ I focus on system design, decision-making structure and the architectural causes
 ## Key Projects
 ### Representative systems that reflect how I design and build.
   
+  - [ClearBudget](https://github.com/oernster/ClearBudget) A personal budget planning application for managing income, bills, and credit cards with detailed solvency analysis.
   - [NarrateX](https://github.com/oernster/narratex) Platform for converting written content into structured, listenable audio.  [Live NarrateX website](https://www.narratex.co.uk)
   - [CommandDeck](https://github.com/oernster/CommandDeck)
     A local-first command surface for structuring work as operational state rather than task-list clutter.
