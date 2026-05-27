@@ -17,8 +17,10 @@ I focus on system design, decision-making structure and the architectural causes
     Calendar, events, note taking, time, internationalisation.
 
 ## Tools
-  - [AudioDeck](https://github.com/oernster/AudioDeck)
+  - [Audio Deck](https://github.com/oernster/AudioDeck)
     Audio switching for StreamDeck / Windows.
+  - [Focus Reader](https://github.com/oernster/focus-reader)
+    Background personal windows service that monitors focused apps
   - [AxisDB](https://github.com/oernster/AxisDB)
     AxisDB is a tiny embedded document database for Python; available to install via pip.
   - [Latency Lab](https://github.com/oernster/latencylab)
