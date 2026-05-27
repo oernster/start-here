@@ -9,8 +9,8 @@ I focus on system design, decision-making structure and the architectural causes
   
   - [ClearBudget](https://github.com/oernster/ClearBudget) A personal budget planning application for managing income, bills, and credit cards with detailed solvency analysis.
   - [NarrateX](https://github.com/oernster/narratex) Platform for converting written content into structured, listenable audio.  [Live NarrateX website](https://www.narratex.co.uk)
-  - [CommandDeck](https://github.com/oernster/CommandDeck)
-    A local-first command surface for structuring work as operational state rather than task-list clutter.
+  - [Locus](https://github.com/oernster/locus)
+    A live task board and focus monitoring tool that runs in the background on Windows.
   - [Elite Dangerous Colonisation Assistant](https://github.com/oernster/EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
   - [Calendifier](https://github.com/oernster/calendifier)
@@ -19,8 +19,6 @@ I focus on system design, decision-making structure and the architectural causes
 ## Tools
   - [Audio Deck](https://github.com/oernster/AudioDeck)
     Audio switching for StreamDeck / Windows.
-  - [Focus Reader](https://github.com/oernster/focus-reader)
-    Background personal windows service that monitors focused apps
   - [Command Fixer](https://github.com/oernster/CommandFixer)
     Autocorrect for commands in powershell
   - [AxisDB](https://github.com/oernster/AxisDB)
