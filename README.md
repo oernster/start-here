@@ -21,6 +21,8 @@ I focus on system design, decision-making structure and the architectural causes
     Audio switching for StreamDeck / Windows.
   - [Focus Reader](https://github.com/oernster/focus-reader)
     Background personal windows service that monitors focused apps
+  - [Command Fixer](https://github.com/oernster/CommandFixer)
+    Autocorrect for commands in powershell
   - [AxisDB](https://github.com/oernster/AxisDB)
     AxisDB is a tiny embedded document database for Python; available to install via pip.
   - [Latency Lab](https://github.com/oernster/latencylab)
