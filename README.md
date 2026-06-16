@@ -7,19 +7,13 @@ I focus on system design, decision-making structure and the architectural causes
 ## Key Projects
 ### Representative systems that reflect how I design and build.  Many are packaged for multiple operating systems.
   
-  - [ClearBudget](https://github.com/oernster/ClearBudget) 
+  - [ClearBudget](https://oernster.github.io/ClearBudget/) 
     A personal budget planning application for managing income, bills, and credit cards with detailed solvency analysis.
-    
-    [Live Clear Budget website](https://oernster.github.io/ClearBudget/)
-  - [NarrateX](https://github.com/oernster/narratex) 
+  - [NarrateX](https://www.narratex.co.uk/) 
     A platform for converting written content into structured, listenable audio.  
-
-    [Live NarrateX website](https://www.narratex.co.uk)
-  - [Meridian](https://github.com/oernster/meridian)
+  - [Meridian](https://oernster.github.io/meridian/)
     A concrete implementation of my MMSP protocol.  
 
-    [Live Meridian website](https://oernster.github.io/meridian/)
-    
     [MMSP Protocol](https://oernster.github.io/MMSP-Spec/)
   - [o7 Debrief](https://oernster.github.io/o7Debrief/ )
     An Elite Dangerous session debriefing tool.
