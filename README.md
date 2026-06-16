@@ -20,7 +20,7 @@ I focus on system design, decision-making structure and the architectural causes
 
     [Live Meridian website](https://oernster.github.io/meridian/)
     
-    [MMSP Protocol](https://oernster.github.io/meridian/)
+    [MMSP Protocol](https://oernster.github.io/MMSP-Spec/)
   - [o7 Debrief](https://oernster.github.io/o7Debrief/ )
     An Elite Dangerous session debriefing tool.
   - [Elite Dangerous Colonisation Assistant](https://github.com/oernster/EDColonisationAsst)
