@@ -17,7 +17,7 @@ I focus on system design, decision-making structure and the architectural causes
     [MMSP Protocol](https://oernster.github.io/MMSP-Spec/)
   - [o7 Debrief](https://oernster.github.io/o7Debrief/ )
     An Elite Dangerous session debriefing tool.
-  - [Elite Dangerous Colonisation Assistant](https://github.com/oernster/EDColonisationAsst)
+  - [Elite Dangerous Colonisation Assistant](https://oernster.github.io//EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
   - [Calendifier](https://github.com/oernster/calendifier)
     Calendar, events, note taking, time, internationalisation.
