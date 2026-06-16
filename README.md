@@ -5,12 +5,16 @@ If you're evaluating my work, this is the best place to start.
 I focus on system design, decision-making structure and the architectural causes of delivery success and failure.
 
 ## Key Projects
-### Representative systems that reflect how I design and build.
+### Representative systems that reflect how I design and build.  Many are packaged for multiple operating systems.
   
-  - [ClearBudget](https://github.com/oernster/ClearBudget) A personal budget planning application for managing income, bills, and credit cards with detailed solvency analysis.
-  - [NarrateX](https://github.com/oernster/narratex) Platform for converting written content into structured, listenable audio.  [Live NarrateX website](https://www.narratex.co.uk)
-  - [Locus](https://github.com/oernster/locus)
-    A live task board and focus monitoring tool that runs in the background on Windows.
+  - [ClearBudget](https://github.com/oernster/ClearBudget) 
+    A personal budget planning application for managing income, bills, and credit cards with detailed solvency analysis. [Live Clear Budget website](https://oernster.github.io/ClearBudget/)
+  - [NarrateX](https://github.com/oernster/narratex) 
+    A platform for converting written content into structured, listenable audio.  [Live NarrateX website](https://www.narratex.co.uk)
+  - [Meridian](https://github.com/oernster/meridian)
+    A concrete implementation of my MMSP protocol.  [Live Meridian website](https://oernster.github.io/meridian/) [MMSP Protocol](https://oernster.github.io/meridian/)
+  - [o7 Debrief](https://oernster.github.io/o7Debrief/ )
+    An Elite Dangerous session debriefing tool.
   - [Elite Dangerous Colonisation Assistant](https://github.com/oernster/EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
   - [Calendifier](https://github.com/oernster/calendifier)
@@ -23,6 +27,8 @@ I focus on system design, decision-making structure and the architectural causes
     Autocorrect for commands in powershell
   - [AxisDB](https://github.com/oernster/AxisDB)
     AxisDB is a tiny embedded document database for Python; available to install via pip.
+  - [Locus](https://github.com/oernster/locus)
+    A live task board and focus monitoring tool that runs in the background on Windows.
   - [Latency Lab](https://github.com/oernster/latencylab)
     LatencyLab is a local, design-time latency exploration tool for event-driven interactive systems.
   - [Coin Analysis](https://github.com/oernster/coin-analysis)
