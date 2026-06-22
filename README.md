@@ -6,7 +6,9 @@ I focus on system design, decision-making structure and the architectural causes
 
 ## Key Projects
 ### Representative systems that reflect how I design and build.  Many are packaged for multiple operating systems.
-  
+
+  - [Fulcrum](https://oernster.github.io/fulcrum/)
+    Decision Architecture incarnate as a software model.
   - [ClearBudget](https://oernster.github.io/ClearBudget/) 
     A personal budget planning application for managing income, bills, and credit cards with detailed solvency analysis.
   - [NarrateX](https://www.narratex.co.uk/) 
