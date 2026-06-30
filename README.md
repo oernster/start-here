@@ -19,10 +19,12 @@ I focus on system design, decision-making structure and the architectural causes
     [MMSP Protocol](https://oernster.github.io/MMSP-Spec/)
   - [o7 Debrief](https://oernster.github.io/o7Debrief/ )
     An Elite Dangerous session debriefing tool.
-  - [Elite Dangerous Colonisation Assistant](https://oernster.github.io//EDColonisationAsst)
+  - [Elite Dangerous Colonisation Assistant](https://oernster.github.io/EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
-  - [Calendifier](https://github.com/oernster/calendifier)
+  - [Calendifier](https://oernster.github.io/calendifier)
     Calendar, events, note taking, time, internationalisation.
+  - [Trainer](https://oernster.github.io/trainer)
+    Aggregates train times, weather and astronomy data into a unified interface.
 
 ## Tools
   - [Audio Deck](https://github.com/oernster/AudioDeck)
@@ -43,8 +45,6 @@ I focus on system design, decision-making structure and the architectural causes
 ## Additional Projects
   - [3D Printing Info](https://github.com/oernster/3D-printing-info)
     Curated 3D printing knowledge base.
-  - [Trainer](https://github.com/oernster/trainer)
-    Aggregates train times, weather and astronomy data into a unified interface.
   - [Snark as a service](https://github.com/oernster/snark-as-a-service)
     A sarcasm api that gets an annoying quote.  [Live SnarkAPI website](https://www.snarkapi.com)
   - [FancyClock](https://github.com/oernster/FancyClock)
