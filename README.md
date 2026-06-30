@@ -21,9 +21,9 @@ I focus on system design, decision-making structure and the architectural causes
     An Elite Dangerous session debriefing tool.
   - [Elite Dangerous Colonisation Assistant](https://oernster.github.io/EDColonisationAsst)
     Elite Dangerous colonisation support site and shard integration for gameglass.
-  - [Calendifier](https://oernster.github.io/calendifier)
+  - [Calendifier](https://oernster.github.io/Calendifier)
     Calendar, events, note taking, time, internationalisation.
-  - [Trainer](https://oernster.github.io/trainer)
+  - [Trainer](https://oernster.github.io/Trainer)
     Aggregates train times, weather and astronomy data into a unified interface.
 
 ## Tools
