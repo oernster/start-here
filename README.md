@@ -15,7 +15,7 @@ I focus on system design, decision-making structure and the architectural causes
     A concrete implementation of my MMSP protocol.  
 
     [MMSP Protocol](https://oernster.github.io/MMSP-Spec/)
-  - [PigeonPost](https://www.pigeonpost.ink/)
+  - [PigeonPost](https://www.pigeonpost.ink/) - A calm, local first, email client.
   - [NarrateX](https://www.narratex.co.uk/) 
     A platform for converting written content into structured, listenable audio.  
   - [o7 Debrief](https://oernster.github.io/o7Debrief/ )
