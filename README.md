@@ -29,7 +29,6 @@ Shipped desktop and web applications, most packaged for multiple operating syste
 - **[Trainer](https://oernster.github.io/Trainer/):** Aggregates train times, weather and astronomy data into a single desktop view.
 - **[FancyClock](https://oernster.github.io/FancyClock/):** A timezone-aware world clock with skins and internationalisation.
 - **[AudioDeck](https://oernster.github.io/AudioDeck/):** Stream Deck audio-device switching for Windows.
-- **[Stellody](https://www.stellody.com):** Music discovery over your local library, surfacing genre-related top tracks via MusicBrainz.
 
 ## Libraries and developer tooling
 
